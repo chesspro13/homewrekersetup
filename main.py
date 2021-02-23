@@ -23,6 +23,19 @@ class main:
     # 5) Clone the HomeWreker git repository
     #       > git clone https://github.com/chesspro13/HomeWreker
 
+    # 6) Install python libraries
+    #   > pip3 install smbus
+    #   > pip3 install python-vlc
+    #   > pip3 install bs4
+    #   > pip3 install youtube_dl
+    #   > pip3 install requests
+    #   > pip3 install pafy
+
+    #  If actually installing to a Raspberry Pi
+    #   > pip3 install RPi.gpio
+
+    # 7) Install Django
+    #   > sudo apt-get install django
 
     def install(self):
 
